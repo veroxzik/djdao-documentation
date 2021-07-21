@@ -34,8 +34,10 @@ Pin 1 is the left-most pin when viewing the drawing below.
 
 `Toggle` by default should be held at `+3.3V`. When a color change is desired, bring `Toggle` to `0V`.
 
+It was verified by [CrazyRedMachine](https://github.com/CrazyRedMachine) that using `+5v` for `Toggle` will also work.
+
 The board will not respond faster than 20Hz, or 50ms, and even then it's somewhat inconsistent.
 
 ## Dimensions
 
-For dimensions, see [the pdf in this folder](sound-voltex/svre9/svre9-led-board.pdf).
+For dimensions, see [the pdf in this folder](svre9-led-board.pdf).
