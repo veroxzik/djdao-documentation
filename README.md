@@ -31,3 +31,7 @@ This board is common to the SVRE9 and SVSE5. The Faucetwo has a unique board.
 ### IIDX
 
 #### Phoenixwan
+
+[Hardware Information](iidx/phoenixwan/hardware.md)
+
+[Turntable Control and Protocol](iidx/phoenixwan/turntable-control.md)
