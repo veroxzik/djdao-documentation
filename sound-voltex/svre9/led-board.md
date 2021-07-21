@@ -34,7 +34,7 @@ Pin 1 is the left-most pin when viewing the drawing below.
 
 `Toggle` by default should be held at `+3.3V`. When a color change is desired, bring `Toggle` to `0V`.
 
-It was verified by [CrazyRedMachine](https://github.com/CrazyRedMachine) that using `+5v` for `Toggle` will also work.
+Using `+5v` for `Toggle` will also work (verified by [CrazyRedMachine](https://github.com/CrazyRedMachine).)
 
 The board will not respond faster than 20Hz, or 50ms, and even then it's somewhat inconsistent.
 

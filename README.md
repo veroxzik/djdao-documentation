@@ -1,7 +1,7 @@
 # djdao-documentation
 This repo contains relevant engineering details for various DJ Dao / Gamo2 controllers.
 
-This repo is not affilliated with DJ Dao or Gamo2 in any way and represents indepedent work based on their products. For commercial support, contact Gamo2 directly.
+This repo is not affilliated with DJ Dao or Gamo2 in any way and represents independent work based on their products. For commercial support, contact Gamo2 directly.
 
 ## Summary
 
