@@ -22,6 +22,10 @@ As noted, the intent is not to provide customer support. However, technical requ
 
 ### Sound Voltex
 
+#### Faucetwo
+
+[Faucetwo Damper](sound-voltex/faucetwo/faucetwo-damper.md)
+
 #### SDVX board (SV*)
 
 This board is common to the SVRE9 and SVSE5. The Faucetwo has a unique board.
